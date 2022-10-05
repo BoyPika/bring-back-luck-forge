@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="GPLv3"
+
+[[mods]]
+modId="bring_back_luck_forge"
+version="1.0.0"
+displayName="Bring Back Luck Forge"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/forge-bring-back-luck"
+authors="BoyPika"
+logoFile="parent_icon.png"
+description='''Adds a way to make luck and bad luck potions'''
+[[dependencies.bring_back_luck_forge]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.17,)"
+ordering="BEFORE"
+side="BOTH"
