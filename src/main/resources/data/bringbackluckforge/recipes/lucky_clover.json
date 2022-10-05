@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:rabbit_foot"
+    }
+  ],
+  "result": {
+    "item": "bring_back_luck_forge:lucky_clover",
+    "count": 1
+  }
+}
