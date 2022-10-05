@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bring_back_luck_forge:items/lucky_clover"
+  }
+}
